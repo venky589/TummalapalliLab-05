@@ -27,7 +27,7 @@ public class Employee {
       System.out.println("Total hourly rate for both employees : "+ e2.total_employees());
        System.out.println("Percantage of fund : "+ e2. per());
        System.out.println("---------After using setter method----------");
-       
+        System.out.println("");
        
        Office e3=new Office("Dallas","TX",30028,5.0,9.0);
        
